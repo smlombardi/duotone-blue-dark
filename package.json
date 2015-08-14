@@ -1,0 +1,22 @@
+{
+  "name": "duotone-blue-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A dark syntax theme",
+  "keywords": [
+    "dark",
+    "blue",
+    "gold",
+    "duotone",
+    "syntax"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simurai/duotone-dark-syntax"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+  
+}
