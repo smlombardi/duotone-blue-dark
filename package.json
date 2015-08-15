@@ -1,7 +1,7 @@
 {
   "name": "duotone-blue-dark-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A neutral blue dark syntax theme",
   "keywords": [
     "dark",
@@ -18,5 +18,4 @@
   "engines": {
     "atom": ">0.50.0"
   }
-
 }
