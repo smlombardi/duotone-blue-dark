@@ -2,7 +2,7 @@
 
 A double-hue syntax theme for Atom.
 
-**NOTE:**  All I did for this theme variant is to take the genius work of [simurai](https://github.com/simurai/duotone-dark-syntax) and shift the Hue to 204 (blue from purple) and the orange to 43 for a yellower orange.  I find this a bit more pleasant to my eyes.  Try the original first, though.
+**NOTE:**  All I did for this theme variant is to take the genius work of [simurai](https://github.com/simurai/duotone-dark-syntax) and shift the Hue from purple into blue and the orange hue to a yellower orange.  I find this a bit more pleasant to my eyes.  Try the original first, though.
 
 ## From the original README:
 
